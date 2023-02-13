@@ -1,4 +1,4 @@
 # hello-world
 exercises
 #about me
-I'm Mateusz and im learnig coding in JS. 
+I'm Mateusz and I'm started to learn codes in JS. 
